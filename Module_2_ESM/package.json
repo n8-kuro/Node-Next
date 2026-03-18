@@ -1,5 +1,8 @@
 {
     "name": "my-test-module",
-    "version": "1.0.0", 
-    "type": "module"
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {
+        "cowsay": "^1.6.0"
+    }
 }
