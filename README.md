@@ -1,5 +1,4 @@
-# Node-Next
-# Node.js - практики в Академии:
+# Node JS
 # Module 1 - introduction to Node.js.
 # Практика
 Задание 1.1:
